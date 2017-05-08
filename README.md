@@ -26,7 +26,7 @@ Download from Github
 #### Using The Command Line:
 
 ```
-git clone https://github.com/misterGF/CoPilot.git
+git clone https://github.com/elpensadorluis/CoPilot.git
 ```
 
 
